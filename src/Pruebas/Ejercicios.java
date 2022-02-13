@@ -9,5 +9,8 @@ public class Ejercicios {
 		
 			
 	}
-
+	
+	public void FuncVacia() {
+		//Línea vacia para probar el merge sin conflictos
+	}
 }
