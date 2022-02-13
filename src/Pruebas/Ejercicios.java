@@ -10,6 +10,7 @@ public class Ejercicios {
 			
 		// Ejercicio 2
 		System.out.println("Añadido en cambio1");
+		System.out.println("Añadido en master");
 	}
 	
 	public void FuncVacia() {
