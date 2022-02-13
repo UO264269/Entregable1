@@ -9,5 +9,8 @@ public class Ejercicios {
 		System.out.println("Añadido en cambio1");
 			
 	}
-
+	
+	public void FuncVacia() {
+		//Línea vacia para probar el merge sin conflictos
+	}
 }
