@@ -11,6 +11,9 @@ public class Ejercicios {
 		// Ejercicio 2
 		System.out.println("Añadido en cambio1");
 		System.out.println("Añadido en master");
+		
+		// Ejercicio 3
+		System.out.println("Añadido en cambio 1");
 	}
 	
 	public void FuncVacia() {
