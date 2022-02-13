@@ -8,6 +8,8 @@ public class Ejercicios {
 		// Ejercicio 1 //
 		System.out.println("Añadido en cambio1");
 			
+		// Ejercicio 2 //
+		System.out.println("Añadido en master");
 	}
 	
 	public void FuncVacia() {
