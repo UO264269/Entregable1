@@ -15,6 +15,9 @@ public class Ejercicios {
 		// Ejercicio 3
 		System.out.println("Añadido en cambio 1");
 		System.out.println("Añadido en master");
+		
+		//Ejercicio 4
+		System.out.println("Primer commit");
 	}
 	
 	public void FuncVacia() {
